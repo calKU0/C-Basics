@@ -7,12 +7,12 @@ namespace równanie_kwadratowe
         static void Main(string[] args)
         {
             double a, b, c;
-            Console.WriteLine("Program służy do obliczania pierwiatków równania kwadratowego ax2+bx+c");
-            Console.WriteLine("Podaj liczbę a");
+            Console.WriteLine("Program służy do obliczania pierwiatków równania kwadratowego ax^2+bx+c");
+            Console.WriteLine("Podaj liczbę a:");
             a = double.Parse(Console.ReadLine());
-            Console.WriteLine("Podaj liczbę b");
+            Console.WriteLine("Podaj liczbę b:");
             b = double.Parse(Console.ReadLine());
-            Console.WriteLine("Podaj liczbę c");
+            Console.WriteLine("Podaj liczbę c:");
             c = double.Parse(Console.ReadLine());
 
             double delta = b * b + (-4 * a * c);
@@ -24,9 +24,17 @@ namespace równanie_kwadratowe
                 Console.WriteLine("a = " + a);
                 Console.WriteLine("b = " + b);
                 Console.WriteLine("c = " + c);
-                Console.WriteLine("Delta = " + delta);
-                Console.WriteLine("x1 = " + x1);
-                Console.WriteLine("x2 = " + x2);
+                if (c < 0)
+                {
+                    Console.WriteLine("Delta = " + b + "^2" + "-" + "4*" + a + "*" + "(" + c + ")");
+                }
+                else if (a<0)
+                {
+                    Console.WriteLine("Delta = " + b + "^2" + "-" + "4*" + "(" + a + ")" + "*" + c);
+                    Console.WriteLine("Delta = " + delta);
+                    Console.WriteLine("x1 = " + x1);
+                    Console.WriteLine("x2 = " + x2);
+                }
 
             }
             else if (a==0)
@@ -36,6 +44,8 @@ namespace równanie_kwadratowe
 
             else if (delta<0)
             {
+                Console.WriteLine("Delta = " + b + "^2" + "-" + "4*" + a + "*" + c);
+                Console.WriteLine("Delta = " + delta);
                 Console.WriteLine("Równanie nie ma rozwiązań");
             }
 
@@ -45,10 +55,22 @@ namespace równanie_kwadratowe
                 Console.WriteLine("a = " + a);
                 Console.WriteLine("b = " + b);
                 Console.WriteLine("c = " + c);
+                Console.WriteLine("Delta = " + b + "^2" + "-" + "4*" + a + "*" + c);
                 Console.WriteLine("Delta = " + delta);
-           
                 Console.WriteLine("Równanie ma jedno rozwiązanie = " + x0);
 
+            }
+            else
+            {
+                double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
+                double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
+                Console.WriteLine("a = " + a);
+                Console.WriteLine("b = " + b);
+                Console.WriteLine("c = " + c);
+                Console.WriteLine("Delta = " + b + "^2" + "-" + "4*" + "(" + a + ")" + "*" + c);
+                Console.WriteLine("Delta = " + delta);
+                Console.WriteLine("x1 = " + x1);
+                Console.WriteLine("x2 = " + x2);
             }
         }
     }

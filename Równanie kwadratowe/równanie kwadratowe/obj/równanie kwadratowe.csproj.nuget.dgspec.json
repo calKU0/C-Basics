@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kkur\\Desktop\\C# learning\\równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj": {}
+    "C:\\Users\\kkur\\Desktop\\C-Basics\\Równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kkur\\Desktop\\C# learning\\równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj": {
+    "C:\\Users\\kkur\\Desktop\\C-Basics\\Równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kkur\\Desktop\\C# learning\\równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj",
+        "projectUniqueName": "C:\\Users\\kkur\\Desktop\\C-Basics\\Równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj",
         "projectName": "równanie kwadratowe",
-        "projectPath": "C:\\Users\\kkur\\Desktop\\C# learning\\równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj",
+        "projectPath": "C:\\Users\\kkur\\Desktop\\C-Basics\\Równanie kwadratowe\\równanie kwadratowe\\równanie kwadratowe.csproj",
         "packagesPath": "C:\\Users\\kkur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kkur\\Desktop\\C# learning\\równanie kwadratowe\\równanie kwadratowe\\obj\\",
+        "outputPath": "C:\\Users\\kkur\\Desktop\\C-Basics\\Równanie kwadratowe\\równanie kwadratowe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

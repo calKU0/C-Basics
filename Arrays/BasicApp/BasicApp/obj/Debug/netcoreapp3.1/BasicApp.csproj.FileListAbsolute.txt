@@ -1,0 +1,13 @@
+C:\Users\kkur\source\repos\BasicApp\BasicApp\bin\Debug\netcoreapp3.1\BasicApp.exe
+C:\Users\kkur\source\repos\BasicApp\BasicApp\bin\Debug\netcoreapp3.1\BasicApp.deps.json
+C:\Users\kkur\source\repos\BasicApp\BasicApp\bin\Debug\netcoreapp3.1\BasicApp.runtimeconfig.json
+C:\Users\kkur\source\repos\BasicApp\BasicApp\bin\Debug\netcoreapp3.1\BasicApp.runtimeconfig.dev.json
+C:\Users\kkur\source\repos\BasicApp\BasicApp\bin\Debug\netcoreapp3.1\BasicApp.dll
+C:\Users\kkur\source\repos\BasicApp\BasicApp\bin\Debug\netcoreapp3.1\BasicApp.pdb
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.csprojAssemblyReference.cache
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.AssemblyInfoInputs.cache
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.AssemblyInfo.cs
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.csproj.CoreCompileInputs.cache
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.dll
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.pdb
+C:\Users\kkur\source\repos\BasicApp\BasicApp\obj\Debug\netcoreapp3.1\BasicApp.genruntimeconfig.cache

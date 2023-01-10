@@ -1,0 +1,13 @@
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.exe
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.deps.json
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.runtimeconfig.json
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.runtimeconfig.dev.json
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.dll
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\bin\Debug\netcoreapp3.1\Oddnumbers.pdb
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.AssemblyInfoInputs.cache
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.AssemblyInfo.cs
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.csproj.CoreCompileInputs.cache
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.dll
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.pdb
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.genruntimeconfig.cache
+C:\Users\kkur\Desktop\C# learning\Oddnumbers\Oddnumbers\obj\Debug\netcoreapp3.1\Oddnumbers.csprojAssemblyReference.cache

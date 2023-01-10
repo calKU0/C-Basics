@@ -1,0 +1,13 @@
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\bin\Debug\netcoreapp3.1\równanie kwadratowe.exe
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\bin\Debug\netcoreapp3.1\równanie kwadratowe.deps.json
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\bin\Debug\netcoreapp3.1\równanie kwadratowe.runtimeconfig.json
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\bin\Debug\netcoreapp3.1\równanie kwadratowe.runtimeconfig.dev.json
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\bin\Debug\netcoreapp3.1\równanie kwadratowe.dll
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\bin\Debug\netcoreapp3.1\równanie kwadratowe.pdb
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.csprojAssemblyReference.cache
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.AssemblyInfoInputs.cache
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.AssemblyInfo.cs
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.dll
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.pdb
+C:\Users\kkur\Desktop\C# learning\równanie kwadratowe\równanie kwadratowe\obj\Debug\netcoreapp3.1\równanie kwadratowe.genruntimeconfig.cache

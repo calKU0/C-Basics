@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "równanie kwadratowe/1.0.0": {
+        "runtime": {
+          "równanie kwadratowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "równanie kwadratowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
